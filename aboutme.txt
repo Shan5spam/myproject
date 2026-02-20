@@ -1,1 +1,1 @@
-I have successfully completed the Git experiment.
+This is a text file for the Git experiment.
